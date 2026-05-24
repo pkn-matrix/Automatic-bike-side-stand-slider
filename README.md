@@ -7,7 +7,7 @@ An innovative, mechatronics-driven motorcycle safety system that utilizes an Ard
 ## 🛠️ Hardware Prototyping & System Integration
 | Circuit Framework | System Architecture Flowchart |
 | :---: | :---: |
-| ![Circuit Diagram](hardware/circuit_diagram.png) | ![Architecture Flow](hardware/architecture_flow.png) |
+| ![Circuit Diagram](Hardware/circuit_diagram.png) | ![Architecture Flow](Hardware/architecture_flow.png) |
 
 ---
 
